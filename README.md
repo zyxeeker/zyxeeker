@@ -2,7 +2,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zyxeeker&show_icons=true&count_private=true&hide=prs">](https://metrics.lecoq.io/zyxeeker?template=classic)
 - ⚡ Currently learning [![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=c&logoColor=ffffff)](https://reactjs.org/) and [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://stylus-lang.com/)
 - 🔨 Building [Grade-Management-System(C++)](https://github.com/zyxeeker/Grade-Management-System) and more
-- ✍ My blogger(building...)
+- ✍ My blog(building...)
 - 🛠 [![](https://img.shields.io/badge/Intellij-CLion-blue?style=flat-square&logo=intellijidea&logoColor=000000)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Intellij-Pycharm-green?style=flat-square&logo=intellijidea&logoColor=000000)](https://code.visualstudio.com/)
 - Platform: [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 
