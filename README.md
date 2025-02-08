@@ -1,9 +1,11 @@
-### Hey, zyxeeker there 👋 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzyxeeker&style=for-the-badge)](https://github.com/zyxeeker)
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=zyxeeker&show_icons=true&count_private=true&hide=prs">](https://metrics.lecoq.io/zyxeeker?template=classic)
-- ⚡ Currently learning [![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=c&logoColor=ffffff)](https://reactjs.org/) and [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://stylus-lang.com/)
+### Hey, zyxeeker there 👋 
+
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=zyxeeker&include_all_commits=true&show_icons=true&theme=tokyonight">](https://github.com/zyxeeker)
+
+- ⚡ Currently learning [![](https://img.shields.io/badge/-C++-007396?style=flat-square&logo=c&logoColor=ffffff)]() and others
 - ✍ [My blog](https://zyxeeker.github.io)
-- 🛠 [![](https://img.shields.io/badge/Intellij-CLion-blue?style=flat-square&logo=intellijidea&logoColor=000000)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/Intellij-Pycharm-green?style=flat-square&logo=intellijidea&logoColor=000000)](https://code.visualstudio.com/)
-- Platform: [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+- 🛠 [![](https://img.shields.io/badge/Intellij-CLion-blue?style=flat-square&logo=jetbrains&logoColor=000000)](https://code.visualstudio.com/) [![](https://img.shields.io/badge/MS-VSCode-blue?style=flat-square&logo=windows&logoColor=000000)](https://code.visualstudio.com/)
+- Platform: [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10) ![](https://img.shields.io/badge/Ubuntu-24.04-orange?logo=ubuntu&style=flat-square)
 
 ![:zyxeeker](https://count.getloli.com/get/@:name)
 
